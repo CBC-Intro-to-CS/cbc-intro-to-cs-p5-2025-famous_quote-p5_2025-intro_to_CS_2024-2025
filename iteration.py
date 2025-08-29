@@ -23,4 +23,3 @@ count = 0
 for nums in [3, 41, 12, 9, 74, 15]:
     count = count + 1
 print("Count: " + str(count))
-print(hi)
